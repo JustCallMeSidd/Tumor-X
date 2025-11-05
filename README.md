@@ -119,5 +119,3 @@ noTumor -:
 ![Te-no_0018](https://github.com/user-attachments/assets/4fab55be-a2e8-4650-acbf-0de653e8cf9e)
 
 
-
-Let me know if you'd like this broken into sections for GitHub Pages or if you want a shorter version for the repo header.
