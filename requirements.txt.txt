@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+Pillow
+opencv-python-headless
+matplotlib
+reportlab
+protobuf
+typing-extensions
