@@ -25,15 +25,6 @@ An end-to-end deep learning system for automated brain tumor analysis using MRI 
 
 ---
 
-### 📊 Model Performance
-
-| Task           | Accuracy | Dice Coefficient | IoU   |
-|----------------|----------|------------------|-------|
-| Segmentation   | -        | 0.90             | 0.82  |
-| Classification | 95.4%    | —                | —     |
-
----
-
 ### 🧠 Architecture Overview
 
 #### 🔹 U-Net (Segmentation)
@@ -109,6 +100,24 @@ streamlit run app.py
 - Cloud-based analysis and multi-modal support
 
 ---
+Image Sample
 ---
+glioma -:
+
+![Te-gl_0023](https://github.com/user-attachments/assets/2c35e1a3-df46-428a-abbb-7db095aa9311)
+
+meningioma -: 
+
+![Te-me_0010](https://github.com/user-attachments/assets/50e30ffc-5959-429f-88bd-92e3b0943e12)
+
+pituitary -: 
+
+![Te-pi_0018](https://github.com/user-attachments/assets/5816406b-8c17-4fbe-98f1-671d33a76199)
+
+noTumor -: 
+
+![Te-no_0018](https://github.com/user-attachments/assets/4fab55be-a2e8-4650-acbf-0de653e8cf9e)
+
+
 
 Let me know if you'd like this broken into sections for GitHub Pages or if you want a shorter version for the repo header.
