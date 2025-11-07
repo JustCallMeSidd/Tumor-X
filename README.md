@@ -1,4 +1,4 @@
-live DEMO - [# Tumor-X](https://tumor-x.streamlit.app/)
+📺 LIVE DEMO - [# Tumor-X](https://tumor-x.streamlit.app/)
 
 ## 🧠 TumorX: Brain Tumor Detection via Deep Learning
 
