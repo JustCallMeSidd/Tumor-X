@@ -1,5 +1,7 @@
 📺 LIVE DEMO - [# Tumor-X](https://tumor-x.streamlit.app/)
 
+![Uploading image.png…]()
+
 ## 🧠 TumorX: Brain Tumor Detection via Deep Learning
 
 An end-to-end deep learning system for automated brain tumor analysis using MRI scans. TumorX performs both **segmentation** and **classification** independently, leveraging U-Net and CNN architectures. Designed for academic and clinical research, it features a modular Streamlit interface and AI-powered PDF reporting.
